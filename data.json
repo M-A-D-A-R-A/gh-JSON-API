@@ -7,6 +7,14 @@
             "imgURL": "https://i.imgur.com/ivd2zq7.png",
             "linkedinURL":"https://anubhavmadhav.github.io/Anubhav-Madhav/",
             "githubURL": "https://anubhavmadhav.github.io/Anubhav-Madhav/"
+        },
+        {
+            "id":1,
+            "name": "Kapil Kumar",
+            "batch": "2019",
+            "imgURL": "https://i.imgur.com/BOQBOib.png",
+            "linkedinURL":"https://anubhavmadhav.github.io/Anubhav-Madhav/",
+            "githubURL": "https://anubhavmadhav.github.io/Anubhav-Madhav/"
         }
     ]
 }
