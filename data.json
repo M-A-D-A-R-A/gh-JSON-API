@@ -1,1 +1,11 @@
+{
+  "data": [
+    {
+        'project': "1",
+        'issuetype': "1",
+        'summary': "This is demo issue",
+        'assignee': "Nishant",
+      }
+  ]
 
+}
