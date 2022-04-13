@@ -1,10 +1,22 @@
 {
   "data": [
     {
-        "project": "1",
-        "issuetype": "1",
+        "projectId": "1",
+        "issueTypeId": "1",
         "summary": "This is demo issue",
         "assignee": "Nishant"
+      },
+    {
+        "projectId": "1",
+        "issueTypeId": "2",
+        "summary": "This is demo issue 2 for project 1",
+        "assignee": "Ben 10"
+      },
+    {
+        "projectId": "2",
+        "issueTypeId": "1",
+        "summary": "This is demo issue 1 for project 1",
+        "assignee": "Naruto"
       }
   ]
 }
